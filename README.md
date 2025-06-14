@@ -85,15 +85,14 @@ The `table_db` in your Anvil app stores previously searched property addresses f
 
 ## 📂 File Structure
 
-The project structure within your Anvil app will look something like this:
+The project structure is as follows:
 
 ```
-your-anvil-app/
-├── HomePurchaseNYCApp.py  # Main app entry point (not shown in snippet but standard Anvil)
-├── Form1.py                 # Contains files related to the Mortgage Calculator form
-├── Form2.py                 # Contains files related to the Property Data Explorer form
-├── Table_db           # Anvil's built-in data tables
-└── Assets                # Optional: images, CSS, etc.
+home-purchase-nyc-app/
+├── Form1.py        # Contains files related to the Mortgage Calculator form
+├── Form2.py        # Contains files related to the Property Data Explorer form
+├── Table_db        # Anvil's built-in data tables
+└── Assets          # Optional: images, CSS, etc.
 ```
 
 ## 🚀 Demo
