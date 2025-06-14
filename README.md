@@ -97,13 +97,13 @@ home-purchase-nyc-app/
 
 ## 🚀 Demo
 
-Experience the "home-purchase-nyc-app" live\!
+Experience the "home-purchase-nyc-app" live!
 
-**🔗 Live Application Link:** <a href="https://gorgeous-obedient-dirt.anvil.app/" target="_blank">Demo Link</a>
+**🔗 Live Application Link:** [Demo Link](https://gorgeous-obedient-dirt.anvil.app/)
 
-**📸 Screenshot:**
-<a href="screenshot1.png" target="_blank"><img src="screenshot1.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" ></a>
-<a href="screenshot2.png" target="_blank"><img src="screenshot2.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" /></a>
+**📸 Screenshots:**
+![Screenshot of the Home Purchase NYC App - Mortgage Calculator](screenshot1.png)
+![Screenshot of the Home Purchase NYC App - Property Data Explorer](screenshot2.png)
 
 ## 🏁 Getting Started
 
