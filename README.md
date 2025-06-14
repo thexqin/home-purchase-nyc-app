@@ -99,10 +99,11 @@ home-purchase-nyc-app/
 
 Experience the "home-purchase-nyc-app" live\!
 
-**🔗 Live Application Link:** [Demo Link](https://gorgeous-obedient-dirt.anvil.app/)
+**🔗 Live Application Link:** <a href="https://gorgeous-obedient-dirt.anvil.app/" target="_blank">Demo Link</a>
 
 **📸 Screenshot:**
 ![Screenshot of the Home Purchase NYC App](screenshot1.png)
+![Screenshot of the Home Purchase NYC App](screenshot2.png)
 
 ## 🏁 Getting Started
 
