@@ -102,8 +102,8 @@ Experience the "home-purchase-nyc-app" live\!
 **🔗 Live Application Link:** <a href="https://gorgeous-obedient-dirt.anvil.app/" target="_blank">Demo Link</a>
 
 **📸 Screenshot:**
-<a href="screenshot1.png" target="_blank"><img src="screenshot1.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" width="400" /></a>
-<a href="screenshot2.png" target="_blank"><img src="screenshot2.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" width="400" /></a>
+<a href="screenshot1.png" target="_blank"><img src="screenshot1.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" ></a>
+<a href="screenshot2.png" target="_blank"><img src="screenshot2.png" alt="Screenshot of the Home Purchase NYC App - Mortgage Calculator" /></a>
 
 ## 🏁 Getting Started
 
@@ -112,7 +112,7 @@ This project is built using Anvil. To run and modify this application:
 1.  **Sign up for an Anvil account:** If you don't have one, visit [anvil.works](https://anvil.works).
 2.  **Clone this repository:**
     ```bash
-    git clone https://github.com/your-username/home-purchase-nyc-app.git
+    git clone https://github.com/thexqin/home-purchase-nyc-app.git
     ```
 3.  **Open in Anvil**: Create a new blank app in Anvil, then use the "Upload Anvil App" option and select the cloned directory.
 4.  **Run the app**: Click the "Run" button ▶️ in the Anvil editor to see the application in action.
