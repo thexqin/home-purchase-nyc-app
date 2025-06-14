@@ -96,6 +96,15 @@ your-anvil-app/
 └── Assets                # Optional: images, CSS, etc.
 ```
 
+## 🚀 Demo
+
+Experience the "home-purchase-nyc-app" live\!
+
+**🔗 Live Application Link:** [https://gorgeous-obedient-dirt.anvil.app/]
+
+**📸 Screenshot:**
+![Screenshot of the Home Purchase NYC App](about:sanitized)
+
 ## 🏁 Getting Started
 
 This project is built using Anvil. To run and modify this application:
